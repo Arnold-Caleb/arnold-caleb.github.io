@@ -1,4 +1,4 @@
-## Computer Vision in Covid-19 Xray image diagnosis
+## Artificial Intelligence in Covid-19 Xray image diagnosis: Using Computer Vision
 
 You can use the [editor on GitHub](https://github.com/Arnold-Caleb/arnold-caleb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
