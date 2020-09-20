@@ -1,6 +1,6 @@
 ## Artificial Intelligence in Covid-19 Xray image diagnosis: Using Computer Vision
 
-Read the paper [editor on GitHub](https://github.com/Arnold-Caleb/arnold-caleb.github.io/Covid-19 Paper.pdf) to maintain and preview the content for your website in Markdown files.
+Read the paper [editor on GitHub](https://github.com/Arnold-Caleb/arnold-caleb.github.io/Covid-19\ Paper.pdf) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
