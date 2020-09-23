@@ -4,7 +4,7 @@ Read the paper [Covid-19 Paper](https://github.com/Arnold-Caleb/arnold-caleb.git
 
 The model built from the research has so far been able to correctly diagnose a patient in Mulago Grade B Hospital.
 
-### Markdown
+## Results
 
 Anonymous Xray from Mulago Grade B Hospital
 [Covid-19 Xray](https://github.com/Arnold-Caleb/arnold-caleb.github.io/blob/master/IMG-20200920-WA0011.jpg)
