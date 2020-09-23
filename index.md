@@ -1,8 +1,14 @@
-## Artificial Intelligence in Covid-19 Xray image diagnosis: Using Computer Vision
+# Artificial Intelligence in Covid-19 Xray image diagnosis: Using Computer Vision
 
 Read the paper [Covid-19 Paper](https://github.com/Arnold-Caleb/arnold-caleb.github.io/blob/master/Covid-19%20Paper.pdf) to get an insight into what was done during this research
 
 The model built from the research has so far been able to correctly diagnose a patient in Mulago Grade B Hospital.
+
+## Dataset Size
+
+For the research, 4044 Covid-19 images and 5500 Non-Covid19 images were used to train the computer vision model. Each image is labeled 0 (Covid-19 Xray) or 1 (Non-Covid-19 Xray).
+
+
 
 ## Results
 
