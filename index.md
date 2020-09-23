@@ -2,13 +2,12 @@
 
 Read the paper [Covid-19 Paper](https://github.com/Arnold-Caleb/arnold-caleb.github.io/blob/master/Covid-19%20Paper.pdf) to get an insight into what was done during this research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 The model built from the research has so far been able to correctly diagnose a patient in Mulago Grade B Hospital.
 
 ### Markdown
 
 Anonymous Xray from Mulago Grade B Hospital
-![Covid-19 Xray](https://github.com/Arnold-Caleb/arnold-caleb.github.io/blob/master/IMG-20200920-WA0011.jpg)
+[Covid-19 Xray](https://github.com/Arnold-Caleb/arnold-caleb.github.io/blob/master/IMG-20200920-WA0011.jpg)
 
 ```markdown
 Syntax highlighted code block
