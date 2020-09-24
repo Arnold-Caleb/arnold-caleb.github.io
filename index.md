@@ -26,9 +26,9 @@ Final validation Accuracy: 90.62%
 Test dataset Accuracy: 87.23%
 
 Covid-19 Xray from Mulago Grade B Hospital
-
+```markdown
 ![Covid-19 Xray](IMG-20200920-WA0011.jpg)
-
+```
 ```markdown
 Syntax highlighted code block
 
