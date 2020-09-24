@@ -27,7 +27,7 @@ Test dataset Accuracy: 87.23%
 
 Covid-19 Xray from Mulago Grade B Hospital
 
-![Covid-19 Xray](https://github.com/Arnold-Caleb/arnold-caleb.github.io/blob/master/IMG-20200920-WA0011.jpg)
+![Covid-19 Xray](IMG-20200920-WA0011.jpg)
 
 ```markdown
 Syntax highlighted code block
