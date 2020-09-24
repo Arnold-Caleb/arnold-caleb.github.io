@@ -27,10 +27,11 @@ Test dataset Accuracy: **87.23%**
 ```
 
 Covid-19 Xray from Mulago Grade B Hospital
+
 ![Covid-19 Xray](IMG-20200920-WA0011.jpg)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Covid-19 Paper](https://github.com/Arnold-Caleb/arnold-caleb.github.io/blob/master/Covid-19%20Paper.pdf).
 
 ### Support or Contact
 
