@@ -21,9 +21,9 @@ ResNet50 network architecture was used as the base architecture of training the 
 
 ## Results
 ```markdown
-Final training Accuracy: **96.68%**
-Final validation Accuracy: **90.62%**
-Test dataset Accuracy: **87.23%**
+Final training Accuracy: 96.68%
+Final validation Accuracy: 90.62%
+Test dataset Accuracy: 87.23%
 ```
 
 Covid-19 Xray from Mulago Grade B Hospital
